@@ -2,7 +2,7 @@
 
 ## Overview
 
-SingSphere is an innovative online karaoke platform that integrates advanced cloud services for a seamless and interactive singing experience. It focuses on social interaction, allowing users to sing synchronously with friends across the globe.
+[SingSphere](http://singsphere.s3-website-us-east-1.amazonaws.com) is an innovative online karaoke platform that integrates advanced cloud services for a seamless and interactive singing experience. It focuses on social interaction, allowing users to sing synchronously with friends across the globe.
 
 ## Key Features
 
