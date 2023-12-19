@@ -9,6 +9,7 @@
 - Real-time audio synchronization in a distributed environment.
 - Scalable and responsive solution using AWS Lambda, EC2, OpenSearch, and RabbitMQ.
 - Focuses on the social aspects of karaoke, connecting friends who are physically apart.
+- [Demo Video](https://www.youtube.com/watch?v=RqISXSbhY7k&themeRefresh=1)
 <img width="1512" alt="Screenshot 2023-12-18 at 10 39 00 PM" src="https://github.com/madiliu/SingSphere/assets/90917906/5eed39ba-30f8-4352-b407-72cc1b6818be">
 <img width="1512" alt="Screenshot 2023-12-18 at 10 39 08 PM" src="https://github.com/madiliu/SingSphere/assets/90917906/a3a9363b-6c27-429b-afca-37df5ee20ea7">
 <img width="1512" alt="Screenshot 2023-12-18 at 10 39 18 PM" src="https://github.com/madiliu/SingSphere/assets/90917906/a336e232-4ed1-4aca-ae98-5b44620d95f7">
