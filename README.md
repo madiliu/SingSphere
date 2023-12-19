@@ -1,7 +1,5 @@
 # SingSphere
 
-<img width="1496" alt="Screenshot 2023-12-18 at 6 52 54 PM" src="https://github.com/Nahemah1022/SingSphere/assets/90917906/44ed765d-aab4-47fc-9914-f1cc241c544b">
-
 ## Overview
 
 SingSphere is an innovative online karaoke platform that integrates advanced cloud services for a seamless and interactive singing experience. It focuses on social interaction, allowing users to sing synchronously with friends across the globe.
@@ -13,12 +11,13 @@ SingSphere is an innovative online karaoke platform that integrates advanced clo
 - Focuses on the social aspects of karaoke, connecting friends who are physically apart.
 
 ## Architecture
-
+<img width="1496" alt="Screenshot 2023-12-18 at 6 52 54 PM" src="https://github.com/Nahemah1022/SingSphere/assets/90917906/44ed765d-aab4-47fc-9914-f1cc241c544b">
 - Utilizes AWS’s content delivery network service, CloudFront, and S3 Frontend for low latency.
 - API Gateway for routing requests and providing HTTPS endpoints.
 - Lambda Functions for indexing and searching music, and enqueueing song requests.
 - RabbitMQ for managing communication and queuing song requests.
 - OpenSearch for efficient song metadata search and retrieval.
+- Codepipeline for automation release of codes.
 
 ## Technology Used
 
@@ -34,3 +33,6 @@ SingSphere is an innovative online karaoke platform that integrates advanced clo
 ## Conclusion
 
 SingSphere demonstrates the potential for cloud-based solutions in real-time entertainment applications, emphasizing the importance of scalability and real-time interaction in digital platforms.
+
+## Contributors
+[Yin-Tung Chen](https://github.com/Nahemah1022), [Josephine Chan](https://github.com/honey-grapes), [Madelain Liu](https://github.com/madiliu), [Hsin-Yuang Huang]
