@@ -14,8 +14,7 @@
 <img width="1512" alt="Screenshot 2023-12-18 at 10 39 18 PM" src="https://github.com/madiliu/SingSphere/assets/90917906/a336e232-4ed1-4aca-ae98-5b44620d95f7">
 <img width="1512" alt="Screenshot 2023-12-18 at 10 39 47 PM" src="https://github.com/madiliu/SingSphere/assets/90917906/ea3efa91-db4b-4d00-b87a-5756bc955e73">
 
-
-## Architecture
+## Design Architecture
 <img width="1496" alt="Screenshot 2023-12-18 at 6 52 54 PM" src="https://github.com/Nahemah1022/SingSphere/assets/90917906/44ed765d-aab4-47fc-9914-f1cc241c544b">
 
 - Utilizes AWS’s content delivery network service, CloudFront, and S3 Frontend for low latency.
@@ -24,8 +23,6 @@
 - RabbitMQ for managing communication and queuing song requests.
 - OpenSearch for efficient song metadata search and retrieval.
 - Codepipeline for automation release of codes.
-
-
 
 ## Technology Used
 
